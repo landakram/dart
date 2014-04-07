@@ -11,6 +11,7 @@ setup(name='needle',
       author_email='me@markhudnall.com',
       license='MIT',
       description='Turn URL variables into models.',
+      url='https://github.com/landakram/needle',
       long_description=read('README.rst'),
       py_modules=['needle'],
       install_requires=['flask-sqlalchemy'])
