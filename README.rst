@@ -3,6 +3,18 @@ dart
 
 Dart turns URL variables into database models with a decorator. 
 
+Installation
+------------
+
+.. code-block:: sh
+
+    pip install dart
+
+Getting started
+---------------
+
+Dart turns URL variables into database models with a decorator. 
+
 That means you can do something like this:
 
 .. code-block:: python
