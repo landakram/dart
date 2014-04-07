@@ -35,6 +35,6 @@ to simplify logic, while still keeping your code readable and concise:
 
 Of course, Needle isn't just a Flask. It's literally just a decorator that
 takes a keyword arg or lambda expression and queries the model class using it as 
-the primary key. That means you can use Needle decorator with any function.
+the primary key. That means you can use the Needle decorator with any function.
 
 For more info, check out the source code -- it's 27 lines.
