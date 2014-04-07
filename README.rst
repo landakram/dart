@@ -13,7 +13,7 @@ That means you can do something like this:
         return jsonify(user.tracks)
 
 If you're smart, you might have a decorator that checks user authorization,
-something like `@login_required`. You can compose Needle with other decorators 
+something like ``@login_required``. You can compose Needle with other decorators 
 to simplify logic, while still keeping your code readable and concise: 
 
 .. code-block:: python
